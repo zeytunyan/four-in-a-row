@@ -1,4 +1,6 @@
 # Four in a row
 Four in a row game for two players. 
 
-Design by https://github.com/yanhvo.
+Made on pure JS. 
+
+This was done as a learning project by me and my classmate <a href="https://github.com/yanhvo">Yana</a> while studying at the university .
