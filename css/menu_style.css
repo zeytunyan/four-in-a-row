@@ -12,7 +12,7 @@ body {
 	left: 50%;
 	margin: -425px 0 0 -325px;
 	position: absolute;
-	background-image: url(../images/window.png);
+	background-image: url(../images/cloud.png);
 	background-size: cover;
 	z-index: 10;
 	-moz-user-select: none;
