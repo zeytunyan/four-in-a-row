@@ -1,4 +1,7 @@
 # Four in a row
+
+https://zeytunyan.github.io/four-in-a-row/
+
 Four in a row game for two players. 
 
 Made on pure JS. 
