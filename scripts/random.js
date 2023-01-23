@@ -1,3 +1,5 @@
+'use strict';
+
 function getRandomColors() {
     return getRand(0, 1) ? ["gold", "red"] : ["red", "gold"];
 }
